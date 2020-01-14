@@ -68,4 +68,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ### To initialize the server
-You navigate to the right folder through command/terminal and run node node.js assuming you have it installed. If not, try #npm install node.
+You navigate to the right folder through command/terminal and run node node.js assuming you have it installed. If not, try **npm install node.
