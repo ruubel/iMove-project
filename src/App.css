@@ -1,5 +1,17 @@
+.error {
+  border: 1px solid red;
+}
+
 .App {
     text-align: center;
+}
+
+div{
+	text-align: center;
+}
+
+button:disabled{
+	background-color: lightgrey;
 }
 
 .form-group {
@@ -61,7 +73,6 @@ button {
     text-decoration: none;
     text-shadow: 0px 1px 0px #ffffff;
     margin-top: 1em;
-
 }
 
 .App-header {
